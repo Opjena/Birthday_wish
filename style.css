@@ -91,7 +91,7 @@ button {
 
 .floating-heart {
   position: fixed;
-  bottom: 0;
+  bottom: 10;
   font-size: 24px;
   animation: floatUp linear;
 }
